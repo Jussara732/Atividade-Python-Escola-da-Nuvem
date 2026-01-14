@@ -22,6 +22,21 @@ Lógica de decisão e condicionais:
 * **02_questao**: Calculadora de IMC com classificações.
 * **03_questao**: Conversor de Temperatura (C, F e K).
 * **04_questao**: Verificador de Anos Bissextos.
+## 🚀 Atividade Prática 04 - Estruturas de Repetição e Tratamento de Erros
+
+Nesta etapa do curso, desenvolvi algoritmos em Python focados em laços de repetição (`for`), lógica condicional avançada e tratamento de exceções com `try/except/finally`.
+
+### 📋 Exercícios Desenvolvidos:
+
+1.  **Calculadora de Soma Acumulada**: Um programa que solicita números ao usuário e realiza a soma total, demonstrando o uso de acumuladores.
+2.  **Média de Notas da Turma**: Algoritmo que lê múltiplas notas, calcula a média aritmética e exibe o desempenho geral.
+3.  **Verificador de Senha Segura**: Sistema que valida se uma senha possui o comprimento mínimo de 8 caracteres e se contém ao menos um número, utilizando `isdigit()`.
+4.  **Analisador de Números Pares e Ímpares**: Código que classifica números inteiros e contabiliza a quantidade de cada tipo. Este exercício inclui tratamento de erro para entradas inválidas e o bloco `finally` para encerramento do processo.
+
+### 🛠️ Tecnologias Utilizadas:
+* **Linguagem**: Python 3
+* **Ferramentas**: Visual Studio Code, Git e GitHub
+* **Conceitos**: Laços `for`, operadores matemáticos (`%`), métodos de string e blocos `try/finally`.
 
 ## 🛠️ Tecnologias Utilizadas
 * Python 3
