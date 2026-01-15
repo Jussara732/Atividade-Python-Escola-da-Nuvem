@@ -36,9 +36,8 @@ Nesta etapa do curso, desenvolvi algoritmos em Python focados em laços de repet
 ### 🛠️ Tecnologias Utilizadas:
 * **Linguagem**: Python 3
 * **Ferramentas**: Visual Studio Code, Git e GitHub
-* **Conceitos**: Laços `for`, operadores matemáticos (`%`), métodos de string e blocos `try/finally`.
-
-'# Atividade Prática 05 - Python
+* **Conceitos**: Laços `for`, operadores matemáticos (`%`), métodos de string e blocos `try/finally
+## 🚀 Atividade Prática 05 - Funções e Bibliotecas em Python
 
 Repositório criado para os exercícios de lógica de programação em Python.
 
