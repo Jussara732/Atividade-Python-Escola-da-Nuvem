@@ -38,6 +38,16 @@ Nesta etapa do curso, desenvolvi algoritmos em Python focados em laços de repet
 * **Ferramentas**: Visual Studio Code, Git e GitHub
 * **Conceitos**: Laços `for`, operadores matemáticos (`%`), métodos de string e blocos `try/finally`.
 
+'# Atividade Prática 05 - Python
+
+Repositório criado para os exercícios de lógica de programação em Python.
+
+## Questões:
+1. **Cálculo de Gorjeta:** Função que calcula porcentagem sobre o valor da conta.
+2. **Verificador de Palíndromo:** Uso de `isalnum()` e `slicing [::-1]` para checar frases.
+3. **Preço com Desconto:** Cálculo algébrico com formatação de centavos (`:.2f`).
+4. **Dias de Vida:** Uso da biblioteca `datetime` para calcular diferença entre datas.
+
 ## 🛠️ Tecnologias Utilizadas
 * Python 3
 * VS Code
