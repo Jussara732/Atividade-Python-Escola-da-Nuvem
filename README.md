@@ -51,7 +51,7 @@ Repositório criado para os exercícios de lógica de programação em Python.
 * Python 3
 * VS Code
 * Git & GitHub
-# 🚀 **Projeto de Estudos Python - Atividade Prática 6**
+# 🚀 **Atividade Prática 6 - Módulos e APIs em Python**
 
 Este repositório contém os exercícios desenvolvidos durante o módulo de **Módulos e APIs em Python**. O foco principal foi aprender a consumir dados externos e organizar o código de forma modular.
 
